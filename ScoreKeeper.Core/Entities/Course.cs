@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScoreKeeper.Core.Models
+namespace ScoreKeeper.Core.Entities
 {
     public class Course
 
